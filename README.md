@@ -34,3 +34,5 @@ sudo ln -s /Volumes/RAM\ Disk /Users/dhanji/Library/Caches/IntelliJIdea14
 
 YMMV with IntelliJ caches as they're probably already heavily cached in memory.
 This may be more useful for stuff like .git dir, .ssh etc.
+
+_Note: A manual eject or system shutdown will destroy everything in the RAM disk_
